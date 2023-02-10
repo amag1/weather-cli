@@ -2,9 +2,9 @@
   "name": "weather",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "weather.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node weather.js"
   },
   "keywords": [],
   "author": "",
